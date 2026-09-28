@@ -1,5 +1,5 @@
 // Declarar una variable con un nombre
-let nombre = "Ana";
+let nombre = "mauro";
 
 // Crear una función para saludar
 function saludar(persona) {
